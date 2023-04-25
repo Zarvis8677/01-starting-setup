@@ -25,7 +25,7 @@ function App() {
       date: new Date(2021, 5, 12),
     },
   ]; 
-
+//testing git
   function addExpenseHandler(expense){
     console.log('In App.js');
     console.log(expense);
@@ -40,4 +40,4 @@ function App() {
   );
 }
 
-export default App;
+export default App;  
